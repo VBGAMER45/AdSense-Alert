@@ -1,0 +1,4 @@
+VBGROUP 5.0
+StartupProject=prjAdsenseAlert.vbp
+Project=vbPopUpMessages\vbPopUpMessages.vbp
+Project=vbAPITimer\vbAPITimer.vbp

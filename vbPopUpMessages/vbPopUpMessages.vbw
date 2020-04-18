@@ -1,0 +1,6 @@
+PopUpMessage = 22, 22, 649, 343, Z
+PopUpMessages = 44, 44, 671, 365, 
+modSound = 66, 66, 693, 387, 
+modFunctions = 88, 88, 715, 409, 
+frmPopUpMessage = 132, 132, 698, 453, , 110, 110, 737, 431, C
+modTranslucency = 0, 0, 526, 355, 
